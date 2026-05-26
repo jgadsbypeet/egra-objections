@@ -9,8 +9,8 @@ export default function SiteHeader() {
       <div className="mx-auto flex max-w-page flex-col items-start gap-4 px-[4vw] py-6 sm:flex-row sm:items-center sm:gap-8 sm:py-8">
         <div className="flex shrink-0 items-center">
           <div
-            className="relative flex h-[72px] w-[180px] items-center justify-center overflow-hidden rounded border border-dashed border-egra-border bg-white sm:h-[95px] sm:w-[220px]"
-            aria-label="EGRA logo placeholder"
+            className="relative flex h-[72px] w-[180px] items-center justify-center overflow-hidden sm:h-[95px] sm:w-[220px]"
+            aria-label="EGRA logo"
           >
             <Image
               src={EGRA_LOGO_URL}
