@@ -48,6 +48,16 @@ export default function Home() {
             voice in the planning process.
           </p>
           <p className="mt-2">
+            <a
+              href="https://www.egra.london/"
+              className="link-accent"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              www.egra.london
+            </a>
+          </p>
+          <p className="mt-2">
             Application reference: 26/0726/F · 54–56 Ormiston Road, SE10 0LN
           </p>
         </div>
